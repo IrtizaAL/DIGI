@@ -1,0 +1,38 @@
+body {
+    font-family: 'Heebo', sans-serif;
+    background: url("/assets/cover.jpg") center / cover no-repeat border-box;
+    max-height: 650px;
+    opacity: 100%;
+    background-attachment: relative;
+}
+
+.active {
+    color: #242e6c;
+}
+
+.margin_right {
+    margin-right: 12rem;
+    /* background-color: red; */
+}
+
+hr.solid {
+    border-top: 2px solid #242e6c;
+}
+
+.theme-clr {
+    color: #242e6c;
+}
+
+.overlay {
+    background-color: rgba(205, 34, 34, 0.5); /* Black background with opacity */
+    /* z-index: 2; */
+    /* padding-left: 800px; */
+  }
+
+  .bg-color {
+    background-color: #242e6c;
+  }
+  
+  .bg-colr {
+    background-color: #bec1d3;
+  }
